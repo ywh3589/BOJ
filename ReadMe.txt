@@ -7,7 +7,7 @@ Codeforces Handle : Schezwan
 
 Email : schezwan@daum.net
 
-School : undergraduate in GIST(Gwangju Institute of Science and Technology)
+School : undergraduate at GIST(Gwangju Institute of Science and Technology)
 
 Blog : schezwan2sauce@tistory.com
 
