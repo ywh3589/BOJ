@@ -5,7 +5,7 @@ BOJ Handle : citizen
 
 Codeforces Handle : Schezwan
 
-Email : schezwan2sauce@gmail.com
+Email : schezwan@daum.net
 
 School : undergraduate in GIST(Gwangju Institute of Science and Technology)
 
