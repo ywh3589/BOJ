@@ -11,5 +11,7 @@ School : undergraduate at GIST(Gwangju Institute of Science and Technology)
 
 Blog : schezwan2sauce@tistory.com
 
+Language Type : C++
+
 The solutions will be uploaded steadily.
 ========================================================================
