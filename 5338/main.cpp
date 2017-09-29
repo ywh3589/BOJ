@@ -1,5 +1,4 @@
 #include <cstdio>
-#define MAX 30100
 
 using namespace std;
 
