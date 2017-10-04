@@ -1,11 +1,11 @@
-// mod 연산
+// mod operation
 
 int gcd(int a, int b) {
 	if (b) return gcd(b, a%b);
 	return a;
 }
 
-// 소수
+// prime number
 
 bool pn(int n) {
 	if (n <= 1) return false;
