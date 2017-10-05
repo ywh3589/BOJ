@@ -3,7 +3,7 @@ BOJ source code
 
 BOJ Handle : citizen
 
-Codeforces Handle : Schezwan
+Codeforces Handle : Schezar
 
 Email : schezwan@daum.net
 
