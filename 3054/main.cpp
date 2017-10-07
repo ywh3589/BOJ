@@ -33,4 +33,5 @@ int main() {
 		if (i % 3 == 0) printf("..*.");
 		else printf("..#.");
 	}
+	printf(".");
 }
