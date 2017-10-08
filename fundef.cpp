@@ -12,3 +12,14 @@ bool pn(int n) {
 	for (int i = 2; i*i <= n; i++) if (n%i == 0) return false;
 	return true;
 }
+
+// reverse integer
+
+int rn(int n) {
+	int m = 0;
+	while (n) {
+		m = 10 * m + n % 10;
+		n /= 10;
+	}
+	return m;
+}
